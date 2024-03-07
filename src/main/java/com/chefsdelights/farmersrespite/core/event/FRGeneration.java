@@ -1,7 +1,7 @@
 package com.chefsdelights.farmersrespite.core.event;
 
 import com.chefsdelights.farmersrespite.core.registry.FRBiomeFeatures;
-import com.nhoryzon.mc.farmersdelight.FarmersDelightMod;
+import vectorwing.farmersdelight.FarmersDelight;
 import net.fabricmc.fabric.api.biome.v1.BiomeModifications;
 import net.fabricmc.fabric.api.tag.convention.v1.ConventionalBiomeTags;
 import net.minecraft.resources.ResourceKey;

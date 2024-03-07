@@ -1,8 +1,8 @@
 package com.chefsdelights.farmersrespite.common.block.entity.inventory;
 
 import blue.endless.jankson.annotation.Nullable;
-import com.nhoryzon.mc.farmersdelight.exception.SlotInvalidRangeException;
-import com.nhoryzon.mc.farmersdelight.util.CompoundTagUtils;
+import com.chefsdelights.farmersrespite.core.exception.SlotInvalidRangeException;
+import com.chefsdelights.farmersrespite.core.utility.CompoundTagUtils;
 import net.minecraft.core.Direction;
 import net.minecraft.core.NonNullList;
 import net.minecraft.nbt.CompoundTag;

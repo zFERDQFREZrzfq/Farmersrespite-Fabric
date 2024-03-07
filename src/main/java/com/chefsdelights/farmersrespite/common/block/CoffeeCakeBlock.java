@@ -2,7 +2,7 @@ package com.chefsdelights.farmersrespite.common.block;
 
 import com.chefsdelights.farmersrespite.core.registry.FREffects;
 import com.chefsdelights.farmersrespite.core.registry.FRItems;
-import com.nhoryzon.mc.farmersdelight.registry.TagsRegistry;
+import vectorwing.farmersdelight.common.registry.TagsRegistry;
 import net.minecraft.core.BlockPos;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.sounds.SoundSource;

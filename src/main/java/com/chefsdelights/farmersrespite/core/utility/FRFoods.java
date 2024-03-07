@@ -1,7 +1,7 @@
 package com.chefsdelights.farmersrespite.core.utility;
 
 import com.chefsdelights.farmersrespite.core.registry.FREffects;
-import com.nhoryzon.mc.farmersdelight.registry.EffectsRegistry;
+import vectorwing.farmersdelight.common.registry.EffectsRegistry;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.food.FoodProperties;

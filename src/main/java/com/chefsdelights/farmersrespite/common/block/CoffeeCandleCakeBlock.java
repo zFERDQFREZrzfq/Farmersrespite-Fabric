@@ -5,7 +5,7 @@ import com.chefsdelights.farmersrespite.core.registry.FREffects;
 import com.chefsdelights.farmersrespite.core.registry.FRItems;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Maps;
-import com.nhoryzon.mc.farmersdelight.registry.TagsRegistry;
+import vectorwing.farmersdelight.common.registry.TagsRegistry;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.sounds.SoundEvents;

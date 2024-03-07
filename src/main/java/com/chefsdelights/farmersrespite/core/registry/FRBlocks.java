@@ -2,7 +2,7 @@ package com.chefsdelights.farmersrespite.core.registry;
 
 import com.chefsdelights.farmersrespite.common.block.*;
 import com.chefsdelights.farmersrespite.core.FarmersRespite;
-import com.nhoryzon.mc.farmersdelight.block.PieBlock;
+import vectorwing.farmersdelight.common.block.PieBlock;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.level.block.Block;

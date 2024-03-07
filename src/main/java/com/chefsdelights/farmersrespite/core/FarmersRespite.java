@@ -6,7 +6,7 @@ import com.chefsdelights.farmersrespite.core.registry.*;
 import com.google.common.reflect.Reflection;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.nhoryzon.mc.farmersdelight.FarmersDelightMod;
+import vectorwing.farmersdelight.FarmersDelight;
 import fuzs.forgeconfigapiport.api.config.v2.ForgeConfigRegistry;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;

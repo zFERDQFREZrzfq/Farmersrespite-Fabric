@@ -1,6 +1,6 @@
 package com.chefsdelights.farmersrespite.common.item;
 
-import com.nhoryzon.mc.farmersdelight.FarmersDelightMod;
+import vectorwing.farmersdelight.FarmersDelight;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.ChatFormatting;
